@@ -22,32 +22,47 @@ p{
  font-family: fantasy;
 }
 .texto{
-
+  
 		width: 90%;
 	height: 180px;
-	background: red;
+	background: #019BFF;
 	border-radius: 10px;
 	margin: auto;
 	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
 	
 }
+.boton{
+	margin-top: 20px;
+  height: 100px;
+  width: 200px;
+ border-radius: 10px;
+  background: green;
+  color: #333;
 
+  line-height: 100px;
+  text-align: center;
 
-button{
-  margin-top: 100px;
-	display: block;
-	margin: auto;
-	background: green;
-	width: 150px;
-	height: 150px;
-	border-radius: 100%;
+  vertical-align: middle;
+}
+.boton:hover{
+	background: darkred;
+}
+a:hover {
+  color: orange;
 }
 a{
-
+	color: #000000S;
 	text-decoration: none;
-	font-family: fantasy;
-	font-size: 15px;
-	color: black;
+	font-size: 25px;
+	font-family: monospace;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+div{
+	margin: auto;
 }
 @media (min-width: 500px) {
 	img{
@@ -58,7 +73,7 @@ a{
 	.texto{
 		width: 70%;
 	height: 180px;
-	background: red;
+
 	border-radius: 10px;
 	margin: auto;
 	
