@@ -10,10 +10,9 @@ body{
 	margin-top: 0px;
 }
 img{
-
-	width: 100% ;
-   display:block;
-   margin:auto;
+ width: 80%;
+ display: block;
+ margin: auto;
 }
 p{
 	height: 20px;
@@ -88,11 +87,9 @@ font{
 	
 	height: 300px;
 }
-	img{
-	width: 85% ;
-   display:block;
-   margin:auto;
-	}
+img{
+ width: 100%;
+}
 	.texto{
 		width: 70%;
 	height: 180px;
