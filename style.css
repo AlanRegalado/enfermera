@@ -7,11 +7,11 @@ body{
 
 }
 .contenedor{
-	margin-top: 50px;
+	margin-top: 0px;
 }
 img{
 
-	width: 900px ;
+	width: 100% ;
    display:block;
    margin:auto;
 }
@@ -43,6 +43,11 @@ div.texto{
   text-align: center;
 
   vertical-align: middle;
+}
+P{
+	color: orangered;
+	font-size: 35PX;
+	text-align: center;
 }
 .boton:hover{
 	background: darkred;
@@ -79,7 +84,7 @@ font{
 }
 	div.texto{
 	background: #000;
-	width: 100%;
+	width: 80%;
 	
 	height: 300px;
 }
