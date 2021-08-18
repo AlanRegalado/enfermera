@@ -2,8 +2,8 @@
 	border: 0;
 	margin: 0;
 }
-body{
-	background-image: radial-gradient(circle at 41% 83.6%, #00ffff 0, #00ffff 16.67%, #00ebff 33.33%, #0cc1ed 50%, #3499be 66.67%, #3a7694 83.33%, #385a6f 100%);
+body{ 
+background:#7CB9EB ;
 
 }
 .contenedor{
